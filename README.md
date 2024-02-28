@@ -1,3 +1,9 @@
+Team members:
+
+Shehab Sayed (Me)(Contact : https://www.linkedin.com/in/shehab-sayed-481249249/)
+
+Amr Jamal (Contact : https://www.linkedin.com/in/amr-jamal-30467a26a/)
+
 # Character-recognition
 • Problem description: The data given are flattened pixels of images of the Arabic letters. The task is to implement a 
 model that accurately tells what character the pixels form.
